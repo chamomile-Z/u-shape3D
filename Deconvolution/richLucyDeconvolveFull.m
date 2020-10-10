@@ -1,6 +1,6 @@
 function richLucyDeconvolveFull(MD, PSF, imageMultiply, p, photoDir, imageSaveDir)
 
-% weinerDeconvolveFull - performs Richardson-Lucy deconvolution and saves the deconvolved image
+% richLucyDeconvolveFull - performs Richardson-Lucy deconvolution and saves the deconvolved image
 %
 % Copyright (C) 2019, Danuser Lab - UTSouthwestern 
 %
